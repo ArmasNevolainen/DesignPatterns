@@ -11,6 +11,7 @@ public class Logger {
     private String currentFile;
     private static final String FILE= "log.txt";
 
+
     private Logger() {
         setFileName(FILE);
     }
