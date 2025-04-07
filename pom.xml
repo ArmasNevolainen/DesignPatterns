@@ -15,6 +15,10 @@
         <module>Observer</module>
         <module>Singleton</module>
         <module>Decorator</module>
+        <module>State</module>
+        <module>Template</module>
+        <module>Strategy</module>
+        <module>ChainOfResposibility</module>
     </modules>
 
     <properties>
