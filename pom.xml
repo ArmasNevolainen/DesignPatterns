@@ -19,6 +19,9 @@
         <module>Template</module>
         <module>Strategy</module>
         <module>ChainOfResposibility</module>
+        <module>Memento</module>
+        <module>Proxy</module>
+        <module>Visitor</module>
     </modules>
 
     <properties>
