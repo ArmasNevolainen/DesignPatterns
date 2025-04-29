@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         NewDateInterface date = new CalendarToNewDateAdapter();
 
-        // Set date to 2024-06-01
+        // Set date to 2025-04-23
         date.setYear(2025);
         date.setMonth(4);
         date.setDay(23);
@@ -16,7 +16,7 @@ public class Main {
         // Advance 14 days
         date.advanceDays(14);
 
-        System.out.println("After advancing 10 days: " + date.getDay() + "-" + date.getMonth() + "-" + date.getYear());
+        System.out.println("After advancing 14 days: " + date.getDay() + "-" + date.getMonth() + "-" + date.getYear());
 
         // Advance another 28 days
         date.advanceDays(28);
