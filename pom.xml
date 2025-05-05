@@ -26,6 +26,10 @@
         <module>Adapter</module>
         <module>Bridge</module>
         <module>Flyweight</module>
+        <module>Prototype</module>
+        <module>Mediator</module>
+        <module>Iterator</module>
+        <module>Facade</module>
     </modules>
 
     <properties>
