@@ -30,6 +30,7 @@
         <module>Mediator</module>
         <module>Iterator</module>
         <module>Facade</module>
+        <module>Command</module>
     </modules>
 
     <properties>
